@@ -1,5 +1,5 @@
 # MiniShellClone
-A (very) simple linux shell, based on MiniShell.
+A (very) simple linux shell, based on MiniShell, written for a computer systems class at Northeastern University.
 
 I wrote this shell with a great deal of help from Stephen Brennan: https://brennan.io/2015/01/16/write-a-shell-in-c/
 
